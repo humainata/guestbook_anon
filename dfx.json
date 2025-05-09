@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "guestbook_anon_backend": {
+      "main": "src/guestbook_anon_backend/main.mo",
+      "type": "motoko"
+    },
+    "guestbook_anon_frontend": {
+      "dependencies": [
+        "guestbook_anon_backend"
+      ],
+      "source": [
+        "src/guestbook_anon_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "guestbook_anon_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
