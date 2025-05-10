@@ -1,4 +1,6 @@
 # `guestbook_anon`
+## Frontend : `https://mk5yo-miaaa-aaaag-aubra-cai.icp0.io/`
+## Backend : `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=md6ts-2aaaa-aaaag-aubqq-cai`
 
 Welcome to your new `guestbook_anon` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
